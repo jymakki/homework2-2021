@@ -21,7 +21,6 @@ p{
 }
 
 img{
-    /* src: "imgs/unocards.jpg"; */
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -67,5 +66,8 @@ div#green{
 
 footer{
     text-align: center;
-    padding: 0px 10px 10px 0px;
+    padding-top: 0px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 0px;
 }
